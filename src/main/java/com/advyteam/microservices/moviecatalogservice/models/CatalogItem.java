@@ -1,4 +1,4 @@
-package com.advyteam.microservices.moviecatalogservice.ressources;
+package com.advyteam.microservices.moviecatalogservice.models;
 
 public class CatalogItem {
 
